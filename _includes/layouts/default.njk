@@ -2,9 +2,12 @@
 layout: layouts/base
 ---
 <header>
-  <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+  <h1 class="home">{{ metadata.title }}</h1>
 </header>
 <main>
-  {{ content | safe }}
+    {% include 'components/nav.njk' %}
+  <div class="content">
+    {{ content | safe }}
+  </div>
 </main>
 <footer></footer>
