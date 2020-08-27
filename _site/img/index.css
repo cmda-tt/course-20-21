@@ -1,10 +1,3 @@
-:root {
-	--yellow: #FFF224; /* Geel van JS logo) */
-	--green: #47ff47; /* Groen van Node.js logo) */
-	--lightgray: #FE2F47; /* Rood van dating */
-	--gray: #512FFE; /* Blauw want reasons? */
-}
-
 * {
   box-sizing: border-box;
 }
@@ -38,7 +31,7 @@ html {
 
 body {
   margin: 0;
-  background-image: url(/img/cover-thumbnail.jpg);
+  background-image: url(../dest/cover-thumbnail.jpg);
   background-position: right top;
   background-size: cover;
   background-attachment: fixed;
@@ -76,7 +69,7 @@ footer::after {
   top: 0;
   right: 0;
   bottom: 0;
-  background-image: url(/img/pattern.svg);
+  background-image: url(../dest/pattern.svg);
   background-attachment: fixed;
 }
 
@@ -230,13 +223,12 @@ blockquote + figcaption {
   box-shadow: 0.2rem 0.2rem 0 black;
 }
 
-main {
+.block {
   max-width: 44em;
   padding: 2em;
   margin: 0 auto;
   position: relative;
   z-index: 1;
-  background-color: hsla(0,0%,100%,.8);
 }
 
 /* http://tholman.com/github-corners/ */

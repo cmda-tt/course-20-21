@@ -38,7 +38,7 @@ html {
 
 body {
   margin: 0;
-  background-image: url(../dest/cover-thumbnail.jpg);
+  background-image: url(/img/cover-thumbnail.jpg);
   background-position: right top;
   background-size: cover;
   background-attachment: fixed;
@@ -76,7 +76,7 @@ footer::after {
   top: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../dest/pattern.svg);
+  background-image: url(/img/pattern.svg);
   background-attachment: fixed;
 }
 
@@ -236,6 +236,7 @@ main {
   margin: 0 auto;
   position: relative;
   z-index: 1;
+  background-color: hsla(0,0%,100%,.8);
 }
 
 /* http://tholman.com/github-corners/ */
