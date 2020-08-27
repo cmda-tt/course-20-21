@@ -1,0 +1,17 @@
+:root {
+	--yellow: #FFF224; /* Geel van JS logo) */ 
+	--green: #47ff47; /* Groen van Node.js logo) */ 
+	--lightgray: #FE2F47; /* Rood van dating */ 
+	--gray: #512FFE; /* Blauw want reasons? */ 
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0;
+	font-family: system-ui, sans-serif;
+}
