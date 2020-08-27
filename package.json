@@ -1,24 +1,29 @@
 {
-  "name": "course-website",
+  "name": "course-20/21",
   "version": "1.0.0",
-  "description": "",
+  "description": " 🎓 tech track · 2020-2021 · curriculum and syllabus 📊",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "npx @11ty/eleventy --serve --quiet"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cmda-tt/course-website.git"
+    "url": "git+https://github.com/cmda-tt/course-20-21.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "html",
+    "css",
+    "d3",
+    "svg"
+  ],
+  "author": [],
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cmda-tt/course-website/issues"
+    "url": "https://github.com/cmda-tt/course-20-21/issues"
   },
   "homepage": "https://github.com/cmda-tt/course-website#readme"
 }

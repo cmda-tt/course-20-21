@@ -1,10 +1,13 @@
 module.exports = function(eleventyConfig) {
-	eleventyConfig.addPassthroughCopy('style')
-	eleventyConfig.addPassthroughCopy("img");
-	return {
-		dir: {
-			input: "pages"
-		},
-		passthroughFileCopy: true
-	}
+  eleventyConfig.addPassthroughCopy('style')
+  eleventyConfig.addPassthroughCopy("img");
+  
+  return {
+    passthroughFileCopy: true,
+    dir: {
+      includes: "_includes",
+      data: "_data",
+      output: "_site"
+    }
+  }
 }
