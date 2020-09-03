@@ -1,0 +1,20 @@
+<h1>Pure functions</h1>
+<p>The below function <strong>manipulates a global variable outside the function.</strong> The result of the function <strong>is the variable</strong>.</p>
+<h2>Impure</h2>
+<pre><code class="language-js">let num = 2;
+
+function square() {
+  num = num * num; 
+  return num;
+}
+
+square();
+</code></pre>
+<h2>Pure</h2>
+<p>The result of <strong>invoking the function</strong> is the output.</p>
+<pre><code class="language-js">function square(num) {
+  return num * num;
+}
+
+num(2);
+</code></pre>

@@ -1,0 +1,32 @@
+<h1>String Manipulation</h1>
+<p>This example shows how to use functions to manipulate an array of strings.</p>
+<p>The following function takes three parameters, and returns an array where each string has been checked for <code>oldstring</code> and been replaced by <code>newString</code>.</p>
+<p>Here is the explicit version, in ES5 (except for the <code>for...of</code> part). The additional checkStringPosition function was created to demonstrate function reuse.</p>
+<pre><code class="language-javascript">function changeStrings(stringArray, oldString, newString){
+    var newArray = []
+    var currentString = &quot;&quot;
+    for (currentString of stringArray){
+        var stringIndex = checkifStringExists(oldString, currentString)
+
+        if (stringIndex != -1){
+            newArray.push(currentString.slice(0, stringIndex -1) + newString)
+        }
+        else { 
+            console.log(&quot;haven't found &quot;, oldString, &quot;replacing with etc.&quot;, currentString) 
+        }
+    }
+    return newArray
+}
+function checkStringPosition(subString, superString){
+    return superString.indexOf(subString)
+}
+changeStrings([&quot;&quot;,&quot;frontend&quot;,&quot;htttp://frontend&quot;],&quot;frontend&quot;,&quot;functional&quot;)
+</code></pre>
+<p>Here is the ES6 version</p>
+<pre><code class="language-javascript">function changeStrings(stringArray, oldString, newString){ 
+    return stringArray.map(item =&gt; item.replace(oldString,newString))
+}
+</code></pre>
+<blockquote>
+<p>Disclaimer: This was live coded so it might not be the cleanest example possible. If you see a better way to do this feel free to send a PR :)</p>
+</blockquote>

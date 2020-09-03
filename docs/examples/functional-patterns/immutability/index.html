@@ -1,0 +1,9 @@
+<h1>Immutability</h1>
+<p>Immutability = not directly modifying data. Most array methods for example will directly modify the array. If your were in the React, Ember or Vue team in the last course. You've probably learned that you never want to change 'state' directly. This is the same principle.</p>
+<h2>Mutability</h2>
+<p>The below code modifies the original <code>names</code> array.</p>
+<pre><code class="language-js">let names = ['laurens', 'danny'];
+names.push('student');
+console.log(names)
+</code></pre>
+<p>So, when people want to manipulate data with functional patterns they usually use 'higher-order functions' because they return new arrays instead of modifying the original.</p>

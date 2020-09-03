@@ -1,0 +1,9 @@
+#+ endpoint: https://api.data.netwerkdigitaalerfgoed.nl/datasets/hackalod/GVN/services/GVN/sparql
+#+ summary: Find all results matching a certain theme, in this case "Kolonin"
+
+PREFIX gvn: <https://data.netwerkdigitaalerfgoed.nl/hackalod/gvn/>
+PREFIX xml: <http://xmlns.com/foaf/0.1/>
+
+SELECT * WHERE {
+  ?sub xml:theme gvn:Kolonin .
+} LIMIT 1000

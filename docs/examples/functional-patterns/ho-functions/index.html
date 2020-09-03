@@ -1,0 +1,11 @@
+<h1>Higher-order functions</h1>
+<p>JavaScript has something unique. Instead of data types (values) such as <code>strings</code>, <code>numbers</code> etc. Functions are 'values' themselves. This makes it possible to assign them to another variable, or use in other functions. You call the latter 'higher order functions'. You use them for the <strong>composition of your code</strong>.</p>
+<h2>Map</h2>
+<p><code>map</code> is probably the best higher-order function to demonstrate.</p>
+<pre><code class="language-js">const num= [1, 2, 3, 4, 5];
+const newNum= num.map(i =&gt; i * 2); // [2, 4, 6, 8, 10]
+
+console.log(num)
+console.log(newNum)
+</code></pre>
+<p><code>map</code> return a new array with the modified numbers.</p>

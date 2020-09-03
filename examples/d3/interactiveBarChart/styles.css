@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+
+.bar {
+  fill: Darkmagenta;
+}
+
+svg {
+  width: 960px;
+  height: 500px;
+}
