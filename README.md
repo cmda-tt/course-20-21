@@ -30,6 +30,7 @@ October 14th until November 29th.
 *   **Lecturers**:
     [Danny de Vries][dandevri-gh] ([**@dandevri**][dandevri-gh]) and
     [Laurens Aarnoudse][razpudding-gh] ([**@razpudding**][razpudding-gh])
+    [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh])
 
 ## Description
 
@@ -63,7 +64,7 @@ Here are a few examples of what students made in [frontend applications][fa]:
 *   [GitHub][home]
     — Main source of information, assignments, examples, important dates,
     and more
-*   [Slack][] (**tech-track** channel)
+*   [Teams][] (**Tech-Track** team)
     — General chatter and Q&A
 *   [Brightspace][]
     — Assessment scheduling
@@ -158,7 +159,7 @@ If you get stuck, follow the following steps:
 *   [Search StackOverflow](https://stackoverflow.com)
 *   [Use a search engine like DuckDuckGo](https://duckduckgo.com)
 *   Ask other students
-*   [Ask questions on Slack][slack]
+*   [Ask questions on Teams][teams]
 *   [Ask a teacher][synopsis]
 
 ## Programme
@@ -221,6 +222,8 @@ docs and images are [CC-BY-4.0][].
 
 [razpudding-gh]: https://github.com/Razpudding
 
+[roberrrt-s-gh]: https://github.com/roberrrt-s
+
 [minor]: https://cmda.github.io/minor-everything-web/
 
 [home]: https://github.com/cmda-tt
@@ -229,7 +232,7 @@ docs and images are [CC-BY-4.0][].
 
 [museum]: https://www.volkenkunde.nl/
 
-[slack]: https://cmdinformationdesign.slack.com
+[teams]: https://teams.microsoft.com/l/team/19%3abb5d1ccf5b92468dae0e0cc06c52a12e%40thread.tacv2/conversations?groupId=9797115c-dc0c-415f-a740-1c0a825baee1&tenantId=0907bb1e-21fc-476f-8843-02d09ceb59a7
 
 [Brightspace]: https://dlo.mijnhva.nl/d2l/home/32180
 
