@@ -26,6 +26,12 @@ _Learn how to clean and parse data using JavaScript_
 * [Fun Fun Function - Functional Programming](https://www.youtube.com/watch?v=BMUiFMZr7vk)
 * [FreeCodeCamp - Functional and Object Oriented Programming](https://www.freecodecamp.org/)
 
+### Frameworks
+
+* [Framer Guide to React](https://www.framer.com/books/framer-guide-to-react/)
+* [React for Beginners](https://reactforbeginners.com/)
+* [Vue Mastery Courses](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+* [Vue.js Tutorials Net Ninja](https://www.youtube.com/watch?v=5LYrN_cAJoA)
 
 ## Refresh topics
 
