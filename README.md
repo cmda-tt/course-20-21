@@ -28,8 +28,8 @@ October 14th until November 29th.
     [Frontend Data][fd]
 *   **Coordinator**: [Laurens Aarnoudse][razpudding-gh]
 *   **Lecturers**:
-    [Danny de Vries][dandevri-gh] ([**@dandevri**][dandevri-gh]) and
-    [Laurens Aarnoudse][razpudding-gh] ([**@razpudding**][razpudding-gh])
+    [Danny de Vries][dandevri-gh] ([**@dandevri**][dandevri-gh]),
+    [Laurens Aarnoudse][razpudding-gh] ([**@razpudding**][razpudding-gh]) and
     [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh])
 
 ## Description
