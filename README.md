@@ -21,8 +21,8 @@
 
 ## Synopsis
 
-The **Tech Track** is given at [**@CMDA**][cmda] in 2019 from
-October 14th until November 29th.
+The **Tech Track** is given at [**@CMDA**][cmda] in 2020 from
+October 19th until November 27th.
 
 *   **Courses**: [Frontend Applications][fa], [Functional Programming][fp],
     [Frontend Data][fd]
@@ -34,7 +34,7 @@ October 14th until November 29th.
 
 ## Description
 
-During the Tech Track you’ll learn how to create interactive visualisations from external data while using libraries and advancing your web dev skills. You will be working together in a group helping each other learn by doing. To apply your learning directly, we will be working on a real life case with the [Museum of Ethnology][museum] in Leiden. 
+During the Tech Track you’ll learn how to create interactive visualisations from external data while using libraries and advancing your web dev skills. You will be working together in a group helping each other learn by doing. To apply your learning directly, we will be working on a real life case with [De Volkskrant][krant]. 
 
 **Tech Track** is an elective track of three courses given in Information
 Design (fall semester), building further on knowledge acquired in
@@ -228,9 +228,9 @@ docs and images are [CC-BY-4.0][].
 
 [home]: https://github.com/cmda-tt
 
-[website]: https://cmda-tt.github.io/course-19-20/
+[website]: https://cmda-tt.github.io/course-20-21/
 
-[museum]: https://www.volkenkunde.nl/
+[krant]: https://www.volkskrant.nl/
 
 [teams]: https://teams.microsoft.com/l/team/19%3abb5d1ccf5b92468dae0e0cc06c52a12e%40thread.tacv2/conversations?groupId=9797115c-dc0c-415f-a740-1c0a825baee1&tenantId=0907bb1e-21fc-476f-8843-02d09ceb59a7
 
