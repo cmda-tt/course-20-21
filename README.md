@@ -1,24 +1,5 @@
 # ![Tech Track - Courses 2020-2021][banner]
 
-## Table of Contents
-
-- [!Tech Track - Courses 2020-2021](#tech-track---courses-2020-2021)
-  - [Table of Contents](#table-of-contents)
-  - [Synopsis](#synopsis)
-  - [Description](#description)
-  - [Communication](#communication)
-  - [Goals](#goals)
-      - [Main goals](#main-goals)
-      - [Subgoals](#subgoals)
-  - [Grade](#grade)
-  - [Materials](#materials)
-      - [Resources used in this track](#resources-used-in-this-track)
-      - [Resources to refresh your memory](#resources-to-refresh-your-memory)
-  - [Stuck](#stuck)
-  - [Programme](#programme)
-  - [Conduct](#conduct)
-  - [License](#license)
-
 ## Synopsis
 
 The **Tech Track** is given at [**@CMDA**][cmda] in 2020 from
@@ -31,10 +12,18 @@ October 19th until November 27th.
     [Danny de Vries][dandevri-gh] ([**@dandevri**][dandevri-gh]),
     [Laurens Aarnoudse][razpudding-gh] ([**@razpudding**][razpudding-gh]) and
     [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh])
+*   **Credit**: 9 ECTS
+*   **Academic year**: 2020-2021
+*   **Period**: Quarter 3 (spring)
+*   **University**: [Amsterdam University of Applied Sciences][university]
+*   **Programme**: [Communication and Multimedia Design][cmda] (full time bachelor CROHO: `34092`)
+*   **Faculty**: [Digital Media and Creative Industries][faculty]
+*   **Language**: Dutch instructions and English resources
+*   **Entry requirements**: N/A
 
 ## Description
 
-During the Tech Track you’ll learn how to create interactive visualisations from external data while using libraries and advancing your web dev skills. You will be working together in a group helping each other learn by doing. To apply your learning directly, we will be working on a real life case with [De Volkskrant][krant]. 
+During the Tech Track you’ll learn how to create interactive visualizations from external data while using libraries and advancing your web dev skills. We focus on frontend frameworks, such as React and Vue, and data visualization, mostly with D3. This enables you to make your ideas for the web into reality. Though the subject matter is technical, attention to user experience and interaction design is, as always in our programme, stressed. 
 
 **Tech Track** is an elective track of three courses given in Information
 Design (fall semester), building further on knowledge acquired in
@@ -44,20 +33,9 @@ Design (fall semester), building further on knowledge acquired in
 If you’d like to continue with web development after this track, pick
 [**Minor Everything Web**][minor] in the spring semester.
 
-Here are a few examples of what students made in [frontend applications][fa]:
+## Assignment
 
-<!--lint disable maximum-line-length-->
-
-<table>
-  <tr valign="top">
-    <td width="25%"><a href="https://github.com/jessedijkman1"><strong>@jessedijkman1</strong></a><br><a href="https://github.com/jessedijkman1/frontend-applications"><img src="https://raw.githubusercontent.com/cmda-tt/course-18-19/master/image/frontend-applications-jesse.png"></a></td>
-    <td width="25%"><a href="https://github.com/rbntimes"><strong>@rbntimes</strong></a><br><a href="https://github.com/rbntimes/frontend-applications"><img src="https://raw.githubusercontent.com/cmda-tt/course-18-19/master/image/frontend-applications-robin.png"></a></td>
-    <td width="25%"><a href="https://github.com/timruiterkamp"><strong>@timruiterkamp</strong></a><br><a href="https://github.com/timruiterkamp/frontend-applications"><img src="https://raw.githubusercontent.com/cmda-tt/course-18-19/master/image/frontend-applications-tim.png"></a></td>
-    <td width="25%"><a href="https://github.com/maanlamp"><strong>@maanlamp</strong></a><br><a href="https://github.com/maanlamp/frontend-applications"><img src="https://raw.githubusercontent.com/cmda-tt/course-18-19/master/image/frontend-applications-wouter.png"></a></td>
-  </tr>
-</table>
-
-<!--lint enable maximum-line-length-->
+To apply your learning directly, we will be working on a real life case with [De Volkskrant][krant]. You will be working with a number of datasets from to do preliminary research / exploration about a topic that journalists might write an article about. During the tech-track you will regularly have to pitch your concept and coded visualization to the client. 
 
 ## Communication
 
@@ -73,43 +51,15 @@ Here are a few examples of what students made in [frontend applications][fa]:
 
 ## Goals
 
-#### Main goals
-
 The 2 main goals in this track are that you’re able to:
 
-*   <a name="goal-1"></a>
-    learn how to create with libraries
-*   <a name="goal-2"></a>
-    create interactive visualisations from external data
+*  Create interactive visualizations from external data
+*  Work with front-end framework and think in components
+*  Refactor, debug and read complex programs (code)
+*  Clean, transform data with functional programming patterns
+*  Use D3 to create interactive visualizations
 
-#### Subgoals
-
-In practice you’ll learn to:
-
-1.  <a name="subgoal-1"></a>
-    read docs
-2.  <a name="subgoal-2"></a>
-    write docs
-3.  <a name="subgoal-3"></a>
-    debug code
-4.  <a name="subgoal-4"></a>
-    refactor code
-5.  <a name="subgoal-5"></a>
-    manipulate elements
-6.  <a name="subgoal-6"></a>
-    load external data
-7.  <a name="subgoal-7"></a>
-    transform data
-8.  <a name="subgoal-8"></a>
-    use svg
-9.  <a name="subgoal-9"></a>
-    use libraries
-10. <a name="subgoal-10"></a>
-    use data joins
-11. <a name="subgoal-11"></a>
-    apply interaction
-
-## Grade
+## Courses
 
 | Course                       |     Points |
 | ---------------------------- | ---------: |
@@ -118,35 +68,7 @@ In practice you’ll learn to:
 | [Frontend Data][fd]          |     3 ECTS |
 | **Total**                    | **9 ECTS** |
 
-## Materials
-
-#### Resources used in this track
-
-*   🆓 GitHub account (**required**)
-    — [Sign Up](https://help.github.com/articles/signing-up-for-a-new-github-account/)
-*   🆓 Text Editor (**required**)
-    — [Atom](https://atom.io) or [Code](https://code.visualstudio.com)
-*   🆓 [Node](https://nodejs.org/en/) (**required**)
-*   🆓 Kelleher, Curran. [Dataviz Mooc](https://github.com/curran/dataviz-course-2018)
-    (**optional**)
-*   🆓 [D3.js Essentials](https://www.lynda.com/D3-js-tutorials/Welcome/504428/549380-4.html)
-    on Lynda (**optional**)
-
-#### Resources to refresh your memory
-
-*   🆓 [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
-    (**course**) — Intro to JavaScript: Learn to code interactively
-*   🆓 [Re-introduction to JavaScript](https://developer.mozilla.org/Web/JavaScript/A_re-introduction_to_JavaScript)
-    (**article**) — Short re-introduction to JavaScript
-*   🆓 [JavaScript Essentials](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)
-    (**course**) — Learn JavaScript on Lynda
-    (free for AUAS students through our [portal][lynda-portal])
-*   🆓 [JavaScript 30](https://javascript30.com)
-    (**course**) — 30 day vanilla JavaScript coding challenge
-*   🆓 [Command-line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/)
-    (**tutorial**) — Learn how to work at the command-line
-
-## Stuck
+## Stuck?
 
 If you get stuck, follow the following steps:
 
@@ -169,8 +91,6 @@ design bachelor focused on interactive digital products and services.
 CMD is part of the [Faculty of Digital Media and Creative Industries][faculty]
 at the [Amsterdam University of Applied Sciences][university].
 
-[![][cmd-logo]][bachelor]
-
 ## Conduct
 
 This track has a [Code of Conduct][coc].
@@ -183,7 +103,7 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 
 ## License
 
-Unless stated otherwise, code is [MIT][] © [Laurens Aarnoudse][razpudding-gh],
+Unless stated otherwise, code is [MIT][] © [Laurens Aarnoudse][razpudding-gh], [Danny de Vries][dandevri-gh] & [Robert Spier][roberrrt-s-gh]
 docs and images are [CC-BY-4.0][].
 
 <!-- Definitions -->
