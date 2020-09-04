@@ -2,7 +2,7 @@
 layout: layouts/default
 ---
 
-👋 We’re a tough track on web development, frontend applications, and data visualization. We’re 👩🏽‍🎓 students, 👷🏽‍♀️ industry, and 👩🏽‍🏫 teachers combined, in one location, where everyone learns. We start October 8th and end November 23th.
+👋 We’re a tough track on web development, frontend applications, and data visualization. We’re 👩🏽‍🎓 students, 👷🏽‍♀️ industry, and 👩🏽‍🏫 teachers combined, in one location, where everyone learns. We start October 18th and end November 27th.
 
 We work from 9:30 a.m. to 5:00 p.m, every work day, for six weeks, in a lab setting with 40 students and 2 teachers. Every 2 weeks a new course on a particular topic.
 
@@ -14,10 +14,29 @@ In this track we focus on frontend frameworks, such as React and Vue, and data v
 
 ## Teachers
 
-Laurens is an all-round creative developer. He teaches at CMD, but also helps refugees learn new skills and prepare themselves for a new working life in CS at HackYourFuture.
-Danny is a teacher
+<img class="avatar" src="/img/laurens.jpg" alt="Laurens is a teacher">
+<p>
+Laurens is an all-round creative developer. He teaches at CMD Amsterdam, but also helps refugees learn new skills and prepare themselves for a new working life in CS at HackYourFuture.
+</p>
 
-Danny is an Indie Maker tinkering with code and creating digital products for the web. He’s also an expierienced teacher at CMD and coordinates backend.
+<br>
+<img class="avatar" src="/img/danny.jpg" alt="Danny is a teacher">
+<p>
+Danny is an Indie Maker creating digital products for the web. He’s also an experienced teacher and lectures in almost every technical course at CMD Amsterdam. He coordinates Blok Tech in the second academic year.
+</p>
+
+<br>
+<p>
+<img class="avatar" src="/img/robert.jpg" alt="Robert is a teacher">
+Robert likes tinkering with new technology. He’s a new teacher at CMD Amsterdam and studied Information Systems at the Amsterdam university. He also does media-stuff at his own company Artaphine.
+</p>
+
+
+## Gallery
+
+![Expo cover photo](/img/cover.jpg)
+![Expo cover photo](/img/cover-2.jpg)
+![Expo cover photo](/img/cover-3.jpg)
 
 ## Program
 
