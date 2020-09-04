@@ -1,5 +1,7 @@
 # ![Tech Track - Courses 2020-2021][banner]
 
+> View the [tech-track website][tt-web] with more student examples, resources and detailed syllabus for teach course.
+
 ## Synopsis
 
 The **Tech Track** is given at [**@CMDA**][cmda] in 2020 from
@@ -157,3 +159,4 @@ docs and images are [CC-BY-4.0][].
 [Brightspace]: https://dlo.mijnhva.nl/d2l/home/32180
 
 [lynda-portal]: https://lyndaportal.ict.hva.nl
+[tt-web]: https://cmda-tt.github.io/course-20-21/
