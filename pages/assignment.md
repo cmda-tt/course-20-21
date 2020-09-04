@@ -3,6 +3,8 @@ layout: layouts/default
 permalink: /assignment/index.html
 ---
 
+![Volkskrant Article](/img/volkskrant.png)
+
 ## Client
 
 During the Tech-Track we will be working with 'De Volkskrant'. A dutch newspaper which is seen as a _quality newspaper_. Circulation of approximately 250,000 (physical). Since 2004 they have an online website where they write interactive articles and make video reports. Within the Volkskrant is a Datalab which collects all type of data sets. 

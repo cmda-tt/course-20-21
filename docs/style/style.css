@@ -243,7 +243,13 @@ main {
   padding: 2em;
   margin: 0 auto;
   position: relative;
-  color:
+}
+
+.full {
+  max-width: 90em;
+  padding: 2em;
+  margin: 0 auto;
+  position: relative;
 }
 
 /* http://tholman.com/github-corners/ */

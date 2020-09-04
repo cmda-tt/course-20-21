@@ -1,5 +1,5 @@
 ---
-layout: layouts/default
+layout: layouts/full
 permalink: /slides/index.html
 ---
 
