@@ -126,7 +126,7 @@ docs and images are [CC-BY-4.0][].
 
 [cc-by-4.0]: license.md#documentation-and-images
 
-[banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@d3abd8b1/banner.svg
+[banner]: https://cmda-tt.github.io/course-20-21/img/banner.svg
 
 [synopsis]: #synopsis
 
