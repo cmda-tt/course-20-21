@@ -21,19 +21,20 @@
 
 ## Synopsis
 
-The **Tech Track** is given at [**@CMDA**][cmda] in 2019 from
-October 14th until November 29th.
+The **Tech Track** is given at [**@CMDA**][cmda] in 2020 from
+October 19th until November 27th.
 
 *   **Courses**: [Frontend Applications][fa], [Functional Programming][fp],
     [Frontend Data][fd]
 *   **Coordinator**: [Laurens Aarnoudse][razpudding-gh]
 *   **Lecturers**:
-    [Danny de Vries][dandevri-gh] ([**@dandevri**][dandevri-gh]) and
-    [Laurens Aarnoudse][razpudding-gh] ([**@razpudding**][razpudding-gh])
+    [Danny de Vries][dandevri-gh] ([**@dandevri**][dandevri-gh]),
+    [Laurens Aarnoudse][razpudding-gh] ([**@razpudding**][razpudding-gh]) and
+    [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh])
 
 ## Description
 
-During the Tech Track you’ll learn how to create interactive visualisations from external data while using libraries and advancing your web dev skills. You will be working together in a group helping each other learn by doing. To apply your learning directly, we will be working on a real life case with the [Museum of Ethnology][museum] in Leiden. 
+During the Tech Track you’ll learn how to create interactive visualisations from external data while using libraries and advancing your web dev skills. You will be working together in a group helping each other learn by doing. To apply your learning directly, we will be working on a real life case with [De Volkskrant][krant]. 
 
 **Tech Track** is an elective track of three courses given in Information
 Design (fall semester), building further on knowledge acquired in
@@ -63,7 +64,7 @@ Here are a few examples of what students made in [frontend applications][fa]:
 *   [GitHub][home]
     — Main source of information, assignments, examples, important dates,
     and more
-*   [Slack][] (**tech-track** channel)
+*   [Teams][] (**Tech-Track** team)
     — General chatter and Q&A
 *   [Brightspace][]
     — Assessment scheduling
@@ -158,7 +159,7 @@ If you get stuck, follow the following steps:
 *   [Search StackOverflow](https://stackoverflow.com)
 *   [Use a search engine like DuckDuckGo](https://duckduckgo.com)
 *   Ask other students
-*   [Ask questions on Slack][slack]
+*   [Ask questions on Teams][teams]
 *   [Ask a teacher][synopsis]
 
 ## Programme
@@ -221,15 +222,17 @@ docs and images are [CC-BY-4.0][].
 
 [razpudding-gh]: https://github.com/Razpudding
 
+[roberrrt-s-gh]: https://github.com/roberrrt-s
+
 [minor]: https://cmda.github.io/minor-everything-web/
 
 [home]: https://github.com/cmda-tt
 
-[website]: https://cmda-tt.github.io/course-19-20/
+[website]: https://cmda-tt.github.io/course-20-21/
 
-[museum]: https://www.volkenkunde.nl/
+[krant]: https://www.volkskrant.nl/
 
-[slack]: https://cmdinformationdesign.slack.com
+[teams]: https://teams.microsoft.com/l/team/19%3abb5d1ccf5b92468dae0e0cc06c52a12e%40thread.tacv2/conversations?groupId=9797115c-dc0c-415f-a740-1c0a825baee1&tenantId=0907bb1e-21fc-476f-8843-02d09ceb59a7
 
 [Brightspace]: https://dlo.mijnhva.nl/d2l/home/32180
 
