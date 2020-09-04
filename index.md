@@ -14,29 +14,29 @@ In this track we focus on frontend frameworks, such as React and Vue, and data v
 
 ## Teachers
 
-<img class="avatar" src="/img/laurens.jpg" alt="Laurens is a teacher">
+<img class="avatar" src="img/laurens.jpg" alt="Laurens is a teacher">
 <p>
 Laurens is an all-round creative developer. He teaches at CMD Amsterdam, but also helps refugees learn new skills and prepare themselves for a new working life in CS at HackYourFuture.
 </p>
 
 <br>
-<img class="avatar" src="/img/danny.jpg" alt="Danny is a teacher">
+<img class="avatar" src="img/danny.jpg" alt="Danny is a teacher">
 <p>
 Danny is an Indie Maker creating digital products for the web. He’s also an experienced teacher and lectures in almost every technical course at CMD Amsterdam. He coordinates Blok Tech in the second academic year.
 </p>
 
 <br>
 <p>
-<img class="avatar" src="/img/robert.jpg" alt="Robert is a teacher">
+<img class="avatar" src="img/robert.jpg" alt="Robert is a teacher">
 Robert likes tinkering with new technology. He’s a new teacher at CMD Amsterdam and studied Information Systems at the Amsterdam university. He also does media-stuff at his own company Artaphine.
 </p>
 
 
 ## Gallery
 
-![Expo cover photo](/img/cover.jpg)
-![Expo cover photo](/img/cover-2.jpg)
-![Expo cover photo](/img/cover-3.jpg)
+![Expo cover photo](img/cover.jpg)
+![Expo cover photo](img/cover-2.jpg)
+![Expo cover photo](img/cover-3.jpg)
 
 ## Program
 

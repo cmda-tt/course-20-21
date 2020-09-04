@@ -3,7 +3,7 @@ layout: layouts/default
 permalink: /assignment/index.html
 ---
 
-![Volkskrant Article](/img/volkskrant.png)
+![Volkskrant Article](img/volkskrant.png)
 
 ## Client
 
