@@ -1,6 +1,6 @@
 # ![Tech Track - Courses 2020-2021][banner]
 
-> View the [tech-track website][tt-web] with more student examples, resources and detailed syllabus for teach course.
+> View the [tech-track website][tt-web] with more student examples, resources and detailed syllabus for each course.
 
 ## Synopsis
 
