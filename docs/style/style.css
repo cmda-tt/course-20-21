@@ -55,7 +55,8 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--yellow);
+  background: url(/img/background.svg) no-repeat center center fixed;
+  background-size: cover;
   position: relative;
 }
 
