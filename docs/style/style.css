@@ -40,7 +40,7 @@ html {
 body {
   margin: 0;
   background-color: #000000;
-  background-image: url("/img/cover-thumbnail.jpg");
+  background-image: url("img/cover-thumbnail.jpg");
   background-position: 100% 0;
   background-size: cover;
   background-attachment: fixed;
@@ -56,7 +56,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(/img/background.svg) no-repeat center center fixed;
+  background: url(img/background.svg) no-repeat center center fixed;
   background-size: cover;
   position: relative;
 }
