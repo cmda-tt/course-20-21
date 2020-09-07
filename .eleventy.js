@@ -4,6 +4,7 @@ module.exports = function(eleventyConfig) {
 
   return {
     passthroughFileCopy: true,
+    pathPrefix: "/eleventy-base-blog/",
     dir: {
       includes: "_includes",
       data: "_data",
