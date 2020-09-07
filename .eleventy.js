@@ -4,7 +4,7 @@ module.exports = function(eleventyConfig) {
 
   return {
     passthroughFileCopy: true,
-    pathPrefix: "https://github.com/cmda-tt/course-20-21/",
+    pathPrefix: "/course-20-21/",
     dir: {
       includes: "_includes",
       data: "_data",
