@@ -15,17 +15,13 @@ October 19th until November 27th.
     [Laurens Aarnoudse][razpudding-gh] ([**@razpudding**][razpudding-gh]) and
     [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh])
 *   **Credit**: 9 ECTS
-*   **Academic year**: 2020-2021
-*   **Period**: Quarter 3 (spring)
 *   **University**: [Amsterdam University of Applied Sciences][university]
 *   **Programme**: [Communication and Multimedia Design][cmda] (full time bachelor CROHO: `34092`)
 *   **Faculty**: [Digital Media and Creative Industries][faculty]
-*   **Language**: Dutch instructions and English resources
-*   **Entry requirements**: N/A
 
 ## Description
 
-During the Tech Track you’ll learn how to create interactive visualizations from external data while using libraries and advancing your web dev skills. We focus on frontend frameworks, such as React and Vue, and data visualization, mostly with D3. This enables you to make your ideas for the web into reality. Though the subject matter is technical, attention to user experience and interaction design is, as always in our programme, stressed. 
+During the Tech Track you’ll learn how to create interactive visualizations from external data while using libraries and advancing your web dev skills. We focus on frontend frameworks, such as React and Vue, and data visualization with D3. This enables you to make your ideas for the web into reality. Though the subject matter is technical, attention to user experience and interaction design is, as always in our programme, stressed. 
 
 **Tech Track** is an elective track of three courses given in Information
 Design (fall semester), building further on knowledge acquired in
@@ -33,41 +29,39 @@ Design (fall semester), building further on knowledge acquired in
 **Frontend 2**, and **Backend**.
 
 If you’d like to continue with web development after this track, pick
-[**Minor Everything Web**][minor] in the spring semester.
+[**Minor Everything Web**][minor] in the spring semester!
 
 ## Assignment
 
-To apply your learning directly, we will be working on a real life case with [De Volkskrant][krant]. You will be working with a number of datasets from to do preliminary research / exploration about a topic that journalists might write an article about. During the tech-track you will regularly have to pitch your concept and coded visualization to the client. 
+To apply your learning directly, we will be working on a real life case with [De Volkskrant][krant]. You will be working with a number of datasets to do preliminary research / exploration about a topic that journalists might write an article about. During the tech-track you will regularly have to show your work to the client. 
 
 ## Communication
 
-*   [GitHub][home]
+*   [Website][website]
     — Main source of information, assignments, examples, important dates,
     and more
 *   [Teams][] (**Tech-Track** team)
     — General chatter and Q&A
 *   [Brightspace][]
     — Assessment scheduling
-*   [Website][]
-    — URL you can send other people
 
 ## Goals
 
-The 2 main goals in this track are that you’re able to:
+The main goals in this track are that you’re able to:
 
+*  Clean, transform data with functional programming patterns
 *  Create interactive visualizations from external data
+*  Use D3 to create interactive visualizations
 *  Work with front-end framework and think in components
 *  Refactor, debug and read complex programs (code)
-*  Clean, transform data with functional programming patterns
-*  Use D3 to create interactive visualizations
 
 ## Courses
 
 | Course                       |     Points |
 | ---------------------------- | ---------: |
-| [Frontend Applications][fa]  |     3 ECTS |
 | [Functional Programming][fp] |     3 ECTS |
-| [Frontend Data][fd]          |     3 ECTS |
+| [Frontend data][fd]          |     3 ECTS |
+| [Frontend Applications][fa]  |     3 ECTS |
 | **Total**                    | **9 ECTS** |
 
 ## Stuck?
@@ -82,6 +76,7 @@ If you get stuck, follow the following steps:
     [d3](https://d3js.org))
 *   [Search StackOverflow](https://stackoverflow.com)
 *   [Use a search engine like DuckDuckGo](https://duckduckgo.com)
+*   [Explain the problem to your 🐤](https://rubberduckdebugging.com/)
 *   Ask other students
 *   [Ask questions on Teams][teams]
 *   [Ask a teacher][synopsis]
