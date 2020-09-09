@@ -129,11 +129,11 @@ docs and images are [CC-BY-4.0][].
 
 [cmda]: https://github.com/cmda
 
-[fa]: frontend-applications
+[fa]: pages/frontend-applications
 
-[fp]: functional-programming
+[fp]: pages/functional-programming
 
-[fd]: frontend-data
+[fd]: pages/frontend-data
 
 [dandevri-gh]: https://github.com/dandevri
 
