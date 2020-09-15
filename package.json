@@ -8,7 +8,8 @@
     "@11ty/eleventy": "^0.11.0"
   },
   "scripts": {
-    "dev": "npx @11ty/eleventy --serve --quiet --pathprefix=/",
+    "dev-local": "npx @11ty/eleventy --serve --quiet --pathprefix=/",
+    "dev-gh": "npx @11ty/eleventy --serve --quiet ",
     "build": "npx @11ty/eleventy"
   },
   "repository": {
