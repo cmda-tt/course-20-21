@@ -3,7 +3,7 @@ layout: layouts/default
 permalink: /resources/index.html
 ---
 
-# Useful Resources
+## Useful Resources
 
 A list of _free_ online resources to prepare for the tech-track or do some further learning when the track is over. Some of these materials will be covered in class.
 
@@ -66,4 +66,3 @@ Do you want to refresh the topics from Blok Tech? Did you not follow Blok Tech i
 - [What it's like to do the tech-track, 'Am I Good Enough?'](https://joanpadolina.github.io/weekly-nerd-1920/pages/reflection.html)
 - [Article about the misrepresentation of refugee immigration flows](https://decorrespondent.nl/11351/zo-maken-kaarten-in-de-media-ons-onbewust-negatiever-over-migranten/904111134201-e810dce5)
 - [Great example of data journalism by the Financial Times](https://ig.ft.com/coronavirus-chart/?areas=usa&areas=gbr&areasRegional=usny&areasRegional=usca&areasRegional=usfl&areasRegional=ustx&byDate=0&cumulative=0&logScale=1&perMillion=0&values=deaths)
-

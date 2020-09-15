@@ -1,5 +1,6 @@
 ---
 layout: layouts/default
+permalink: /courses/frontend-applications/index.html
 ---
 
 ## Frontend Applications
@@ -40,10 +41,10 @@ Create an app that's valuable to our client that renders dynamic content from a 
 > Schedule is subject to change.
 Attendance is required **daily** from 9:30-17:00
 
-| Date  |   Time    | Activity                                |
-| ----- | :-------: | --------------------------------------- |
-| 16-11 |   9:30    | Kickoff!                                |
-| 27-11 |   9:30    | Final presentations                     |
+| Date  | Time  | Activity            |
+| ----- | :---: | ------------------- |
+| 16-11 | 9:30  | Kickoff!            |
+| 27-11 | 9:30  | Final presentations |
 
 
 [banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@6b810afa/banner-frontend-applications.svg

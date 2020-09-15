@@ -1,5 +1,6 @@
 ---
 layout: layouts/default
+permalink: /courses/functional-programming/index.html
 ---
 
 ## Functional Programming
@@ -35,9 +36,9 @@ You additionally apply learning attained in frontend apps.
 > Schedule is subject to change.
 Attendance is required **daily** from 9:30-17:00
 
-| Date  | Time  | Activity                             |
-| ----- | :---: | ------------------------------------ |
-| 19-10 | 9:30  | Kickoff!                             |
+| Date  | Time  | Activity |
+| ----- | :---: | -------- |
+| 19-10 | 9:30  | Kickoff! |
 
 
 [banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@6b810afa/banner-functional-programming.svg

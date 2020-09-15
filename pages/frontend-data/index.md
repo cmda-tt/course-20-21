@@ -1,5 +1,6 @@
 ---
 layout: layouts/default
+permalink: /courses/frontend-data/index.html
 ---
 
 ## Frontend Data
@@ -37,10 +38,10 @@ refactoring code.
 > Schedule is subject to change.
 Attendance is required **daily** from 9:30-17:00
 
-| Date  | Time  | Activity                                |
-| ----- | :---: | --------------------------------------- |
-| 02-11 | 9:30  | Kickoff! ⚽️                             |
-| 13-11 | 9:30  | Assesment of FP && FD                   |
+| Date  | Time  | Activity              |
+| ----- | :---: | --------------------- |
+| 02-11 | 9:30  | Kickoff! ⚽️            |
+| 13-11 | 9:30  | Assesment of FP && FD |
 
 
 [banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@6b810afa/banner-frontend-data.svg
