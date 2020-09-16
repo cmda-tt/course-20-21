@@ -5,7 +5,7 @@
 >
   <title>Back-end</title>
   <style>
-    :root { color: #FFF224; background-color: #FFF224; max-width: 100% }
+    :root { color: #f6cd51; background-color: #f6cd51; max-width: 100% }
     body { margin: 0 }
     path { fill: none; stroke: black; stroke-width: 5px; stroke-linecap: round; stroke-opacity: 0.5 }
     path:nth-child(odd) { stroke-opacity: 0.1 }

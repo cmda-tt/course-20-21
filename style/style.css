@@ -1,9 +1,10 @@
 :root {
-	--yellow: #FFF224; /* Geel van JS logo) */
+	--yellow: #f6cd51; /* Geel van JS logo) */
 	--green: #47ff47; /* Groen van Node.js logo) */
 	--lightgray: #FE2F47; /* Rood van dating */
   --gray: #512FFE; /* Blauw want reasons? */
   --black: #000;
+  --soothinggreen: rgb(65 129 79 / 80%); /*Bacground color*/
 }
 
 * {
@@ -47,7 +48,7 @@ body {
   -ms-interpolation-mode: nearest-neighbor;
   image-rendering: -moz-crisp-edges;
   image-rendering: pixelated;
-  color: white;
+  color: #efeeee;
   font-size: 1.2em;
 }
 
@@ -137,10 +138,17 @@ a:focus {
   color: var(--yellow);
 }
 
+
+
 header a {
   color: var(--white);
   text-decoration: none;
   font-weight: 900;
+}
+
+header a:hover,
+header a:focus {
+  color: var(--soothinggreen);
 }
 
 a img {
@@ -243,7 +251,7 @@ blockquote + figcaption {
 
 main {
   z-index: 1;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: var(--soothinggreen);
 }
 
 .content {
@@ -324,5 +332,5 @@ nav ul li {
 }
 
 nav ul li a {
-  color: var(--yellow);
+
 }
