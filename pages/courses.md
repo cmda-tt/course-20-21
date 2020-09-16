@@ -2,20 +2,17 @@
 layout: layouts/default
 permalink: /courses/index.html
 ---
-![Functional Programming](../img/banner-fp.svg)
+[Functional Programming](functional-programming)
+[![Functional Programming](../img/banner-fp.svg)](functional-programming)
 
-In functional programming (fp) you learn how to create visualisations from external data, and how to clean and transform data, use svg, use d3, and specifically use d3’s scales. You additionally apply learning attained in frontend apps.
+In functional programming (fp) you learn how to clean and transform data, and write code in functional patterns. We'll also spend time learning about data journalism and general front-end programming.
 
-[View syllabus for fp()](functional-programming)
+[Front-end Data](frontend-data)
+[![Frontend Data](../img/banner-fd.svg)](frontend-data)
+During frontend data (fd) you'll learn how to create a data visualization with d3, use data joins and DOM manipulation. The main delivarble is a static viz that suits our client's needs. You additionally learn about debugging and refactoring code as well as transforming data for use in a viz.
 
-![Frontend Data](../img/banner-fd.svg)
+[Front-end Applications](frontend-applications)
+[![Frontend Applications](../img/banner-fa.svg)](frontend-applications)
+In frontend apps (fa) you'll get to turn your data viz into an interactive experience AND wrap it all in an app using a front-end framework. You'll learn how to read documentation, use libraries and frameworks, and how to use build tools. Key framework concepts like components, state management and life-cycle hooks will also be covered.
 
-In frontend data (fd) you create an interactive visualisation, use data joins, apply motion, and additionally apply learning outcomes attained in previous courses. You additionally learn about programming principles like debugging and refactoring code.
 
-[View syllabus for fd()](frontend-data)
-
-![Frontend Applications](../img/banner-fa.svg)
-
-In frontend apps (fa) you learn how to choose and use a library, and concretely how to load external data and use it to dynamically create and manipulate elements. You additionally learn about programming principles like reading and writing documentation.
-
-[View syllabus for fa()](frontend-applications)

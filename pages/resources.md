@@ -3,17 +3,13 @@ layout: layouts/default
 permalink: /resources/index.html
 ---
 
-## Useful Resources
-
-A list of _free_ online resources to prepare for the tech-track or do some further learning when the track is over. Some of these materials will be covered in class.
-
 ## Data Visualization
 
 ### General
 _Learn about the 'overarching' principles of data visualization._
 * [Nicholas Feltron Skillshare Classes](https://www.skillshare.com/user/feltron)
 * [Nadieh Bremer Skillshare Class](https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568)
-* [The excellent talk by Jane Pong](https://www.youtube.com/watch?v=a7G_pwoR4xc&feature=youtu.be&ab_channel=GraphicHunters) from the financial times about design decisions related to visualizattions used in journalism
+* [The excellent talk by Jane Pong](https://www.youtube.com/watch?v=a7G_pwoR4xc&feature=youtu.be&ab_channel=GraphicHunters) from the financial times about design decisions related to visualizations used in journalism
 
 ### D3.js
 _Learn how to code visualization using D3._
