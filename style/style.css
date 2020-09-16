@@ -48,7 +48,7 @@ body {
   -ms-interpolation-mode: nearest-neighbor;
   image-rendering: -moz-crisp-edges;
   image-rendering: pixelated;
-  color: #efeeee;
+  color: white;
   font-size: 1.2em;
 }
 
@@ -167,11 +167,9 @@ figure {
 }
 
 blockquote {
-  margin-left: 0.66em;
-  margin-right: 0.66em;
   font-family: Georgia, Cambria, 'Times New Roman', Times, serif;
   font-style: italic;
-  font-size: 1.5em;
+  font-size: 1em;
   text-indent: -0.32em; /* “ */
 }
 
