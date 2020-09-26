@@ -32,14 +32,19 @@ _Learn how to code visualization using D3._
 * [Report by TT student Leroyabout learning how to use React](https://squeezydough.github.io/weekly-nerd-1920/blogs/react.html)
 * [How to integrate D3 with React](https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3ebc71#:~:text=The%20challenge%20of%20integrating%20D3,cold%2C%20dead%20hands%E2%80%9D%20moments.) This is a more complex and versatile method than we show in class.
 
+### Data Journalism
+* [NYT guide to data journalism with datasets and worksheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919)
+* [The excellent talk by Jane Pong](https://www.youtube.com/watch?v=a7G_pwoR4xc&feature=youtu.be&ab_channel=GraphicHunters) from the financial times about design decisions related to visualizations used in journalism
+* [Great example of data journalism by the Financial Times](https://ig.ft.com/coronavirus-chart/?areas=usa&areas=gbr&areasRegional=usny&areasRegional=usca&areasRegional=usfl&areasRegional=ustx&byDate=0&cumulative=0&logScale=1&perMillion=0&values=deaths)
+* [Article about the misrepresentation of refugee immigration flows](https://decorrespondent.nl/11351/zo-maken-kaarten-in-de-media-ons-onbewust-negatiever-over-migranten/904111134201-e810dce5)
+
+
 ### General
 _Learn about the 'overarching' principles of data visualization._
 * [Nicholas Feltron Skillshare Classes](https://www.skillshare.com/user/feltron)
 * [Nadieh Bremer Skillshare Class](https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568)
-* [The excellent talk by Jane Pong](https://www.youtube.com/watch?v=a7G_pwoR4xc&feature=youtu.be&ab_channel=GraphicHunters) from the financial times about design decisions related to visualizations used in journalism
 * [What it's like to do the tech-track, 'Am I Good Enough?'](https://joanpadolina.github.io/weekly-nerd-1920/pages/reflection.html)
-* [Article about the misrepresentation of refugee immigration flows](https://decorrespondent.nl/11351/zo-maken-kaarten-in-de-media-ons-onbewust-negatiever-over-migranten/904111134201-e810dce5)
-* [Great example of data journalism by the Financial Times](https://ig.ft.com/coronavirus-chart/?areas=usa&areas=gbr&areasRegional=usny&areasRegional=usca&areasRegional=usfl&areasRegional=ustx&byDate=0&cumulative=0&logScale=1&perMillion=0&values=deaths)
+
 
 ## Refresh topics
 
