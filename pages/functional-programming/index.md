@@ -31,6 +31,12 @@ You additionally apply learning attained in frontend apps.
 *   **Credit**: 3 ECTS
 *   **Assessment**: [Presentation][assessment]
 
+## Deliverables
+* A repo with the name 'functional-programming' on Github
+* A readme that describes your work to others 
+* A wiki which documents your process (what did you do, what did you learn, which functional patterns did you apply, etc.)
+* Code which cleans data with functional patterns. Describe the patterns used in the wiki.
+
 ## Schedule
 > An open value in a cell indicates the same value as above.
 > Schedule is subject to change.
