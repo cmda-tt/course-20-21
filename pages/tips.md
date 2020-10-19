@@ -25,4 +25,4 @@ _We have a few tips and tricks to be more productive, and feel better while codi
 * [NPM Cheat Sheet - devhints.io](https://devhints.io/npm)
 * [D3.js quick reference - paradite](https://github.com/paradite/d3-cheatsheet)
 * [React.js Cheat Sheet - devhints.io](https://devhints.io/react)
-* [Vue.js Cheat Sheet] - devhints.io](https://devhints.io/vue)
+* [Vue.js Cheat Sheet - devhints.io](https://devhints.io/vue)
