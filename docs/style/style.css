@@ -205,6 +205,10 @@ table:first-of-type {
   margin-top: 1em;
 }
 
+blockquote + table:first-of-type {
+  margin-top: 2em;
+}
+
 th,
 tr:not(:last-of-type) {
   border-bottom: 1px solid white;
