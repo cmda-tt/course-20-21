@@ -201,6 +201,10 @@ table {
   margin-bottom: 1em;
 }
 
+table:first-of-type {
+  margin-top: 1em;
+}
+
 th,
 tr:not(:last-of-type) {
   border-bottom: 1px solid white;
