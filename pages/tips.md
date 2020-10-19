@@ -1,6 +1,6 @@
 ---
 layout: layouts/default
-permalink: /resources/index.html
+permalink: /tips/index.html
 ---
 
 ## Tips, tricks & cheat sheets for your home office
