@@ -52,6 +52,23 @@ Attendance is required **daily** from 9:30-17:00
 | 19/10 | 15:00 | Deadline aanleveren URLs             |
 | 19/10 | 16:00 | Among Us 🎉                          |
 
+| Date  | Time  | Activity                             |
+|-------|-------|--------------------------------------|
+| 20/10 | 9:30  | Kickoff deliverables                 |
+| 20/10 | ????  | Recap block-tech                     |
+| 20/10 | ????  | Lecture on using the terminal        |
+| 20/10 | ????  | Exploring dataset                    |
+| 20/10 | ????  | Debriefing, update wiki              |
+| 20/10 | 16:00 | Standups with the student assistants |
+
+| Date  | Time  | Activity                             |
+|-------|-------|--------------------------------------|
+| 21/10 | 9:30  | Lecture on "searching in json"       |
+| 21/10 | 10:00 | Lecture on strings, array's & data   |
+| 21/10 | 10:30 | Lecture on chaining & cleaning       |
+| 21/10 | 12:00 | Readme and Wiki introduction         |
+| 21/10 |       | Gitflow & update your own wiki       |
+| 21/10 | 16:00 | Standups with the student assistants |
 
 [banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@6b810afa/banner-functional-programming.svg
 
