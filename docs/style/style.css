@@ -97,7 +97,7 @@ a {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 2.5em;
   color: white;
   text-shadow: 0.2rem 0.2rem 0 black;
   margin: 0;
@@ -105,7 +105,7 @@ h1 {
 
 @media (min-width: 30em) {
   h1 {
-    font-size: 6em;
+    font-size: 4em;
   }
 }
 
@@ -310,19 +310,16 @@ main {
   }
 }
 
-nav {
-  overflow: auto;
-}
-
 nav ul {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
   list-style-type: none;
   padding: 0;
   margin: 0;
   background: var(--black);
-  height: 5vh;
+  min-height: 5vh;
 }
 
 nav ul li {
