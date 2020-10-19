@@ -197,6 +197,25 @@ blockquote + figcaption {
   }
 }
 
+table {
+  border-collapse: collapse !important;
+  border: 1px solid white;
+}
+
+th,
+tr:not(:last-of-type) {
+  border-bottom: 1px solid white;
+}
+
+td {
+  padding: 0 .66em;
+}
+
+th:not(:last-of-type),
+td:not(:last-of-type) {
+  border-right: 1px solid white;
+}
+
 :matches(.examples, .partners, .speakers) {
   list-style: none;
   align-items: center;
