@@ -42,9 +42,15 @@ You additionally apply learning attained in frontend apps.
 > Schedule is subject to change.
 Attendance is required **daily** from 9:30-17:00
 
-| Date  | Time  | Activity |
-| ----- | :---: | -------- |
-| 19-10 | 9:30  | Kickoff! |
+| Date  | Time  | Activity                             |
+|-------|-------|--------------------------------------|
+| 19/10 | 9:30  | Kickoff!                             |
+| 19/10 | 10:30 | Dividing students in support groups  |
+| 19/10 | 11:00 | Kickoff Volkskrant                   |
+| 19/10 | 12:30 | Getting to know eachother            |
+| 19/10 | 13:30 | Explore the dataset / refresh course |
+| 19/10 | 15:00 | Deadline aanleveren URLs             |
+| 19/10 | 16:00 | Among Us 🎉                          |
 
 
 [banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@6b810afa/banner-functional-programming.svg
