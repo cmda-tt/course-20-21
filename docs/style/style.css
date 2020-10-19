@@ -138,8 +138,6 @@ a:focus {
   color: var(--yellow);
 }
 
-
-
 header a {
   color: var(--white);
   text-decoration: none;
@@ -200,6 +198,7 @@ blockquote + figcaption {
 table {
   border-collapse: collapse !important;
   border: 1px solid white;
+  margin-bottom: 1em;
 }
 
 th,
