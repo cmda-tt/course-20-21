@@ -3,7 +3,7 @@ node_js:
   - 14
 before_script:
   - npm install @11ty/eleventy -g
-script: eleventy 
+script: eleventy
 deploy:
   local-dir: _site
   provider: pages
