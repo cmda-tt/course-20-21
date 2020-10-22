@@ -55,10 +55,10 @@ Attendance is required **daily** from 9:30-17:00
 | Date  | Time  | Activity                             |
 |-------|-------|--------------------------------------|
 | 20/10 | 9:30  | Kickoff deliverables                 |
-| 20/10 | ????  | Recap block-tech                     |
-| 20/10 | ????  | Lecture on using the terminal        |
-| 20/10 | ????  | Exploring dataset                    |
-| 20/10 | ????  | Debriefing, update wiki              |
+| 20/10 | Morning  | Recap block-tech                  |
+| 20/10 | 11:00  | Lecture on using the terminal       |
+| 20/10 | Afternoon  | Exploring dataset               |
+| 20/10 | Afternoon  | Debriefing, update wiki         |
 | 20/10 | 16:00 | Standups with the student assistants |
 
 | Date  | Time  | Activity                             |
@@ -67,7 +67,7 @@ Attendance is required **daily** from 9:30-17:00
 | 21/10 | 10:00 | Lecture on strings, array's & data   |
 | 21/10 | 10:30 | Lecture on chaining & cleaning       |
 | 21/10 | 12:00 | Readme and Wiki introduction         |
-| 21/10 |       | Gitflow & update your own wiki       |
+| 21/10 | Afternoon | Gitflow & update your own wiki   |
 | 21/10 | 16:00 | Standups with the student assistants |
 
 | Date  | Time  | Activity                             |
