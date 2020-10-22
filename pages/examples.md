@@ -24,3 +24,11 @@ Code examples on how to do common things with D3, functional programming pattern
 ## Frameworks
 * [Integrating D3 with React](https://vizhub.com/Razpudding/0c7b96d6d24c4a16a3e31eb3df9eb1e6?edit=files&file=index.js)
 
+## Wiki  
+* [Manouk - Data Cleaning](https://github.com/ManoukK/functional-programming/wiki/Data-opschonen)
+* [Chazz - Data Patterns](https://github.com/Chazzers/frontend-data/wiki)
+* [Leroy - Concept](https://github.com/SqueezyDough/frontend-data/wiki/Concept)
+
+## Readme
+* [Wiebe](https://github.com/Wiebsonice/frontend-data)
+* [Eyob](https://github.com/EyobDejene/frontend-data)
