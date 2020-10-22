@@ -70,6 +70,20 @@ Attendance is required **daily** from 9:30-17:00
 | 21/10 |       | Gitflow & update your own wiki       |
 | 21/10 | 16:00 | Standups with the student assistants |
 
+| Date  | Time  | Activity                             |
+|-------|-------|--------------------------------------|
+| 22/10 | 9:30  | Ochtendcollege                       |
+| 22/10 | 11:00 | Chelsea support                      |
+| 22/10 | Afternoon | Expert college voor gevorderden  |
+| 22/10 | Afternoon | Beginner college met voorbeelden |
+| 22/10 | 16:00 | Standups with the student assistants |
+
+| Date  | Time  | Activity                             |
+|-------|-------|--------------------------------------|
+| 23/10 | 9:30  | Goeiemorgen allemaal!                |
+| 23/10 | 12:30 | 1-op-1 gesprekken voor feedback      |
+| 23/10 | 17:00 | Weekend!                             |
+
 
 ## Rubric
 
