@@ -6,6 +6,7 @@ permalink: /examples/index.html
 Code examples on how to do common things with D3, functional programming patterns (data cleaning) and rendering views with frameworks.
 
 ## JavaScript
+* [Loading local data](https://github.com/cmda-tt/course-20-21/tree/master/examples/loading-data-local)
 * [String Manipulation](https://github.com/cmda-tt/course-20-21/blob/master/examples/string-manipulation.md)
 * [JSON Manipulation](https://github.com/cmda-tt/course-20-21/tree/master/examples/json-manipulation)
 * [Data Transformation](https://github.com/Razpudding/force-graph-data-transformer)
