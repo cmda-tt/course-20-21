@@ -26,7 +26,7 @@ During the Tech Track you’ll learn how to create interactive visualizations fr
 **Tech Track** is an elective track of three courses given in Information
 Design (fall semester), building further on knowledge acquired in
 **Internetstandaarden**, **Inleiding Programmeren**, **Frontend 1**,
-**Frontend 2**, and **Backend**.
+**Frontend 2**, and **Back-end**.
 
 If you’d like to continue with web development after this track, pick
 [**Minor Everything Web**][minor] in the spring semester!
