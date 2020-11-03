@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Data Binding</title>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+
+<body>
+  <script>
+    let data = ['Laurens', 'Danny', 'Robert', 'Pipo', 'Peter'];
+
+    /* 1. Returns an empty NodeList */
+    console.log('SelectAll - Returns an empty NodeList:')
+    console.log(d3.select('body').selectAll('p'));
+
+    /* 2. Empty selection is joined */
+    console.log('Data - Empty selection is joined')
+    console.log(d3.select('body').selectAll('p').data(data));
+
+    /* 3. Array is longer than the selection. */
+    console.log('Enter - Array is longer than the selection (groups has empty slots)')
+    console.log(d3.select('body').selectAll('p').data(data).enter());
+
+    /* 4. P tag is appended to group */
+    console.log('Append - P tag is appended to group')
+    console.log(d3.select('body').selectAll('p').data(data).enter().append('p'));
+
+    // d3.select('body')
+    //   .selectAll('p')
+    //   .data(data)
+    //   .enter()
+    //   .append('p')
+    //   .text(id => id);
+
+  </script>
+</body>
+
+</html>
