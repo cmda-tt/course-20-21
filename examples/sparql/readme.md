@@ -6,4 +6,4 @@ Remember to change both the query and the url parameter to make it work. Or, if 
 
 Some queries have been taken/adapted from [Ivo Zandhuis' SPARQL query repo](https://github.com/ivozandhuis/SPARQL-queries)
 
-If you want to know how to load LOD-data into d3 using a sparql query, [here is a basic example showing how that works](https://beta.vizhub.com/Razpudding/2b231e4f093b411bbb259115019e02ea).
+If you want to know how to load LOD-data into d3 using a sparql query, [here is a basic example showing how that works](https://vizhub.com/Razpudding/2b231e4f093b411bbb259115019e02ea).

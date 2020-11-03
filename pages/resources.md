@@ -18,6 +18,7 @@ _Learn how to clean and parse data using JavaScript_
 
 ### D3.js
 _Learn how to code visualization using D3._
+* [D3 overview of graphs and concepts with code](https://www.d3-graph-gallery.com/index.html)
 * [Curran Dataviz Course 2018](https://github.com/curran/dataviz-course-2018)
 * [Curran Dataviz Course 2020](https://datavis.tech/datavis-2020/)
 * [FreeCodeCamp - Data Visualization with D3](https://www.freecodecamp.org/learn/)
