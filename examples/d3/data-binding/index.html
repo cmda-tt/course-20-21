@@ -12,27 +12,27 @@
     let data = ['Laurens', 'Danny', 'Robert', 'Pipo', 'Peter'];
 
     /* 1. Returns an empty NodeList */
-    console.log('SelectAll - Returns an empty NodeList:')
-    console.log(d3.select('body').selectAll('p'));
+    // console.log('SelectAll - Returns an empty NodeList:')
+    // console.log(d3.select('body').selectAll('p'));
 
-    /* 2. Empty selection is joined */
-    console.log('Data - Empty selection is joined')
-    console.log(d3.select('body').selectAll('p').data(data));
+    // /* 2. Empty selection is joined */
+    // console.log('Data - Empty selection is joined')
+    // console.log(d3.select('body').selectAll('p').data(data));
 
     /* 3. Array is longer than the selection. */
     console.log('Enter - Array is longer than the selection (groups has empty slots)')
-    console.log(d3.select('body').selectAll('p').data(data).enter());
+    console.log(d3.select('body').selectAll().data(data).enter());
 
-    /* 4. P tag is appended to group */
-    console.log('Append - P tag is appended to group')
-    console.log(d3.select('body').selectAll('p').data(data).enter().append('p'));
+    // /* 4. P tag is appended to group */
+    // console.log('Append - P tag is appended to group')
+    // console.log(d3.select('body').selectAll('p').data(data).enter().append('p'));
 
-    // d3.select('body')
-    //   .selectAll('p')
-    //   .data(data)
-    //   .enter()
-    //   .append('p')
-    //   .text(id => id);
+    d3.select('body')
+      .selectAll()
+      .data(data)
+      .enter()
+      .append('p')
+      .text(id => id);
 
   </script>
 </body>
