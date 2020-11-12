@@ -17,6 +17,7 @@
     + open up an issue in a new tab
     + in one issue (the reviewee can create several issues themselves) write your review related to the points below
 - Scan someone else's repository
+    + Is the repo called exactly 'frontend-data'?
     + gitignore
     + link to live demo on github pages
     + description
