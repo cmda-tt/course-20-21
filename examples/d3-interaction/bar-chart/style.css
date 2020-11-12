@@ -1,0 +1,15 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+  font-family: sans-serif;
+  padding: 10vw;
+}
+
+.bar {
+  fill: Darkmagenta;
+}
+
+svg {
+  width: 960px;
+  height: 500px;
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Method Chaining</title>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+
+<body>
+  <script>
+    /* All default methods on D3 Object */
+    console.log(d3);
+
+    /* Method returns object (instead of DomNode) */
+    console.log(d3.select("body"));
+
+    /* With method chaining
+    * Each method returns an object (allowing the calls to be chained together)
+    */
+    d3.select("body")
+      .append("h1")
+      .text("Tech Track")
+      .append("h1")
+      .text("Tech Track");
+
+
+
+    /* Without method chaining */
+    const body = d3.select("body");
+    const el = body.append("h1");
+    el.text("Tech-Track");
+
+  </script>
+</body>
+
+</html>

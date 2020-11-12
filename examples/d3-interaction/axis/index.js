@@ -85,8 +85,14 @@ function onload(err, data) {
     var transition = svg.transition();
 
     field = this.value;
+    console.log(field);
+
 
     y.domain([0, d3.max(data, current)]);
+
+    console.log(data);
+
+    /* Set the bar heights 👇 */
 
     transition.selectAll('.bar')
       .delay(delay)
@@ -95,6 +101,8 @@ function onload(err, data) {
       .attr('width', x.bandwidth())
       .attr('height', barHeight);
 
+      /* Set Y axis ticks  👇 */
+
     transition.select('.axis-y')
       .call(d3.axisLeft(y).ticks(10, currentFormat()))
       .selectAll('g')
@@ -102,7 +110,7 @@ function onload(err, data) {
 
     /* Calculate `height` for a bar. */
     function barHeight(d) {
-      return height - barY(d);
+      console.log(d);
     }
   }
 
@@ -159,6 +167,7 @@ function onload(err, data) {
     return d[field];
   }
 
+  /* Check if data type is percent or population number 👇 */
   function currentFormat(d) {
     return /percent/.test(field) ? formatPercent : formatPopulation;
   }
