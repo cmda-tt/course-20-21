@@ -55,7 +55,7 @@ data**).
       <th align="center" scope="row">Understanding</th>
       <td align="center">There is substantial own code and the student can explain how the project was created</td>
       <td align="center">The student can explain some parts of their code, how some parts works together, and some technical choices</td>
-      <td align="center">The student can explain every part of their code; the project is structured logically. The student can explain the merits of frameworks inr elation to their project</td>
+      <td align="center">Student understands how components, state, lifecycle works in their app. The project is structured logically. Merits of frameworks can be explained</td>
       <td align="center">The project is complex but can easily be understood; student used or wrote code not covered in class that was carefully chosen while weighing alternatives</td>
       <td align="center">🤓<br>The student deeply understands their code and a geeky / nerdy conversation can be held about this</td>
     </tr>
@@ -71,9 +71,9 @@ data**).
       <th align="center" scope="row">Process</th>
       <td align="center">Process is partially documented</td>
       <td align="center">Process is properly documented</td>
-      <td align="center">Choices are evaluated and documented; progress is demonstrated</td>
-      <td align="center">Significant progress or iterations are demonstrated</td>
-      <td align="center">💪<br>What you did this course is amazing</td>
+      <td align="center">Choices are evaluated and documented; progress is demonstrated; Work reflects client's needs</td>
+      <td align="center">Significant progress or iterations are demonstrated; Client is happy with the work</td>
+      <td align="center">💪<br>What you did this course is amazing; Teachers and client are in awe of your progress</td>
     </tr>
   </tbody>
 </table>
