@@ -4,6 +4,7 @@
 - Understand the rubric better
 - Get feedback on your work
 - Help a peer by giving feedback on their work
+- Get a higher grade
 
 ## Preparation
 - [Read the rubric](https://github.com/cmda-tt/course-20-21/blob/master/pages/frontend-data/assessment.md#rubric). Is everything clear?
